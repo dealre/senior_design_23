@@ -1,0 +1,15 @@
+## Robert Deal
+
+## Your Contact information
+- robert.e.deal@gmail.com
+- dealre@mail.uc.edu
+- 937-760-7719   
+## Co-op Work Experience
+- ICR Inc.
+- Cyber Security Defense Contractor
+- Software Engineering Intern, 2020-2023
+- Reverse Engineering of Assembly Code
+- Exploring Vulnerabilities and Crafting Exploits
+- Extensive Experience in Git, x86, OOP, and Linux System Architecture
+## Project Sought
+-   Seeking a project related to or at least in part pertaining to cyber security
