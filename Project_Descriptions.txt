@@ -1,0 +1,5 @@
+The goal of the project is to create a software tool that can be used to penetrate a system with known or otherwise identified vulnerabilities. 
+The goal is also to have a number of systems in place to manage the target machine’s logs, set up/manage backdoors, and maintain connections. 
+The Idea is to demonstrate the way in which bad actors can use relatively simple exploits on what is considered modern machinery. 
+The tool is also a good chance to learn about the specific real world application of how ideas of computer security in a formal learning institution 
+are applied in real world examples.
